@@ -20,6 +20,7 @@ Our firm is utilizing pandas and jupyter labs to evaluate different funds invest
 - **2:** Copy URL of this repo
 - **3:** Clone folder to this repo and open in jupyter labs
 - **4:** Ensure that you have the imports correctly identified to download
+- **5:** Check the resources folder that you have access to the whale_navs.csv
 ---
 
 ## *Usage*
